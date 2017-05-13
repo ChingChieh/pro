@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\Game.o
+./debug\Tower.o
+./debug\Bullet.o
+./debug\Warriors.o
+./debug\Deck.o
+./debug\Bad_warriors.o
+./debug\Bad_tower.o
+./debug\Mana.o
+./debug\qrc_res.o
+./debug\moc_Tower.o
+./debug\moc_Bullet.o
+./debug\moc_Warriors.o
+./debug\moc_Bad_tower.o
+./debug\moc_bad_warriors.o
+);

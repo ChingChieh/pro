@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\Game.o
+./release\Tower.o
+./release\Bullet.o
+./release\Warriors.o
+./release\Deck.o
+./release\Bad_warriors.o
+./release\Bad_tower.o
+./release\Mana.o
+./release\qrc_res.o
+./release\moc_Tower.o
+./release\moc_Bullet.o
+./release\moc_Warriors.o
+./release\moc_Bad_tower.o
+./release\moc_bad_warriors.o
+);
